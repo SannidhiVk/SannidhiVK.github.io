@@ -1,7 +1,25 @@
-# About Me
+<h1 align ="center">Hello</h1>
 
-# Experience
+# Name 
+## College
+### Branch
+#### Department
+ 
+##   Bold -**Bold** or _Bold_
 
-# Projects
+##   *Italic* or _Italics_
 
-# Socials
+##   Strikethrough - ~~Strikethrough~~
+
+   `Inline code`
+
+ ```python print("hello") ```
+
+## tables 
+
+Col 1| Col 2|
+-----|----- |
+Food | Bar  |
+
+## [PES](http://department.com)
+
